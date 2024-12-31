@@ -1,0 +1,96 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  size: 110cap;
+  justify-content:flex-start;
+  padding: 0px 20px;
+  
+  background-color: rgb(255, 255, 255); 
+}
+
+.logo {
+  width: 90px; 
+  height:auto;
+  border-radius: 50%;
+  margin-right: 20px;
+}
+
+.nav-links {
+  display: flex;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin: 0 25px; 
+}
+
+.nav-links a {
+  text-decoration: none;
+  color: #333;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size:xx-large;
+  text-align: center;
+}
+
+
+footer{
+  padding-bottom:0px;
+  padding-top: 1px;
+  background-color: rgb(255, 255, 255);
+  position: fixed;
+  bottom: 1%;
+  width: 100%;
+  position: fixed;
+  
+  text-align: center;
+}
+p{
+  color: #fefafaeb;
+  font-size: x-large;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+}
+h1{
+  text-align: center;
+  color: #f5f5f5;
+  font-size: xx-large;
+}
+#img-home{
+  background-image: url("https://media.istockphoto.com/id/2188753228/vector/digital-music-equalizer-banner-with-multicolored-shining-sound-wave-or-abstract-eq.jpg?s=1024x1024&w=is&k=20&c=b37QDjOatNv4aVeLqqJOflY9-i9n5ISaCua68NqZb5M=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
+  
+}
+#img-about{
+  background-image: url("https://media.istockphoto.com/id/1397998210/vector/stock-market.jpg?s=1024x1024&w=is&k=20&c=UJIqKXFjJNQgsEhbtq2vL_otEGHkxkjR015MOxrz-CU=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+ 
+}
+#img-contact{
+  background-image: url("https://img.freepik.com/free-vector/abstract-blue-circle-black-background-technology_1142-12714.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
+}
+#img-abc{
+  background-image: url("https://media.istockphoto.com/id/941630258/photo/technical-financial-graph-on-technology-abstract-background.jpg?s=1024x1024&w=is&k=20&c=ook6DASce-fYzM4bM92OZGz9sDzf1R9ujGl8MPKeIlo=");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100vh;
+  
+}
+h3{
+  color: #000000;
+}
+body{
+  background-color: #000000;
+}
+
